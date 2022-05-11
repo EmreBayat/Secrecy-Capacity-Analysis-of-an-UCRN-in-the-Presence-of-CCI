@@ -4,3 +4,8 @@ This study investigates the impact of primary network and co-channel interferenc
 
 Please cite article if you find my code is useful.
 Cite this article as: Bayat E, Aldırmaz Çolak S. Secrecy Capacity Analysis of an Underlay Cognitive Radio Network in the Presence of Co-channel and Primary Network Interference. Electrica, 2021; 21(1): 105-114
+
+
+
+https://www.researchgate.net/publication/348644176_Secrecy_Capacity_Analysis_of_an_Underlay_Cognitive_Radio_Network_in_the_Presence_of_Co-channel_and_Primary_Network_Interference
+
